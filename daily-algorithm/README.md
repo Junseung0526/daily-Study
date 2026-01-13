@@ -14,4 +14,5 @@
 | 2026-01-09 | 그래프  | 바이러스 전파          | **DFS (깊이 우선 탐색)** | ✅  | [Issue #3](https://github.com/junseung0526/daily-study/issues/3) |
 | 2026-01-09 | 복습   | BFS vs DFS 비교 복습 | **BFS, DFS**       | ✅  | [Issue #4](https://github.com/junseung0526/daily-study/issues/4) |
 | 2026-01-12 | 자료구조 | 최소 힙 (Heap)      | **우선순위 큐**         | ✅  | [Issue #5](https://github.com/junseung0526/daily-study/issues/5) |
+| 2026-01-13 | 자료구조 | 최대 힙 & 절댓값 힙     | **힙 응용 & 이진 트리**   | ✅  | [Issue #7](https://github.com/junseung0526/daily-study/issues/7) |
 | 2026-01-10 | 자료구조 | (주제 미정)          | 미정                 | 📅 | 학습 예정                                                            |
