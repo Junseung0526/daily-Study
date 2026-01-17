@@ -16,5 +16,7 @@
 | 2026-01-12 | 자료구조 | 최소 힙 (Heap)      | **우선순위 큐**         | ✅  | [Issue #5](https://github.com/junseung0526/daily-study/issues/5)   |
 | 2026-01-13 | 자료구조 | 최대 힙 & 절댓값 힙     | **힙 응용 & 이진 트리**   | ✅  | [Issue #7](https://github.com/junseung0526/daily-study/issues/7)   |
 | 2026-01-14 | 그래프  | 다익스트라 최단 경로      | **우선순위 큐 + 그래프**   | ✅  | [Issue #9](https://github.com/junseung0526/daily-study/issues/9)   |
-| 2026-01-15 | 그래프  | 최소 신장 트리 (MST)   | **크루스칼 알고리즘**   | ✅  | [Issue #11](https://github.com/junseung0526/daily-study/issues/11) |
-| 2026-01-10 | 미정   | (주제 미정)          | 미정                 | 📅 | 학습 예정                                                              |
+| 2026-01-15 | 그래프  | 최소 신장 트리 (MST)   | **크루스칼 알고리즘**      | ✅  | [Issue #11](https://github.com/junseung0526/daily-study/issues/11) |
+| 2026-01-16 | 그래프  | 최소 신장 트리 (MST)   | **프림 알고리즘**        | ✅  | [Issue #13](https://github.com/junseung0526/daily-study/issues/13) |
+| 2026-01-17 | 그래프  | 위상 정렬            | **진입차수 & 큐**        | ✅  | [Issue #15](https://github.com/junseung0526/daily-study/issues/15) |
+| 2026-01-17 | 미정   | (주제 미정)          | 미정                 | 📅 | 학습 예정                                                              |
